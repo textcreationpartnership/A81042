@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends, for union and edification of the Church of God in Christ Jesus. By his servant, John Crook.</title>
+            <author>Crook, John, 1617-1699</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81042</idno>
+            <idno type="STC">Wing C7209</idno>
+            <idno type="STC">ESTC R171614</idno>
+            <idno type="EEBO-CITATION">45789262</idno>
+            <idno type="OCLC">ocm 45789262</idno>
+            <idno type="VID">172572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172572)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2639:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends, for union and edification of the Church of God in Christ Jesus. By his servant, John Crook.</title>
+                  <author>Crook, John, 1617-1699</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians I, 10 --  Sermons.</term>
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:172572:1"/>
+            <head>AN <hi>Epiſtle</hi> to <hi>Friends,</hi> FOR <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and <hi>Edification</hi> Of the Church of God in <hi>Chriſt Jeſus.</hi>
+            </head>
+            <byline>By his Servant, <hi>John Crook.</hi>
+            </byline>
+            <epigraph>
+               <q>
+                  <bibl>1 Cor. 1.10.</bibl> Now I beſeech you Brethren, by the Name of our Lord Jeſus Chriſt, that ye all ſpeak one thing, and that there be no diſſen<g ref="char:EOLhyphen"/>tions among you; but that ye be knit together in one mind and in one judgment.</q>
+            </epigraph>
+            <opener>
+               <salute>Dear Friends and Brethren, &amp;c.</salute>
+            </opener>
+            <p>I Salute you all in that firſt Love wherewith God loved us, and we ſo dearly loved one another. In my old Age I cannot forget thoſe times and ſeaſons of comfortable Refreſh<g ref="char:EOLhyphen"/>ments we have enjoyed together in the holy Spi<g ref="char:EOLhyphen"/>rit of our heavenly Father: Praiſed be his bleſſed Name for ever.</p>
+            <p>That which is in my Heart to you in this E<g ref="char:EOLhyphen"/>piſtle, is to remind you of that free love of God, that viſited us in our low Eſtate, when we were caſt out (as it were) into the open Field, void of all Shelter, as in a weary Land, quite tired and weary of every thing: Then was made known to us the hiding place from the Storms, <hi>&amp;c.</hi> which
+<pb n="2" facs="tcp:172572:2"/>we found to be as a Rock in that weary, wayleſs Wilderneſs State and Condition.</p>
+            <p>My <hi>Dear Friends,</hi> you that know and can wit<g ref="char:EOLhyphen"/>neſs what I write, what remains but that we love <hi>(Him)</hi> that firſt loved <hi>(<g ref="char:V">Ʋ</g>s)</hi> and one ano<g ref="char:EOLhyphen"/>ther in him? The former will appear by our keeping his Commandments, and the latter by our diligent and tender watchfulneſs one over another, for our preſervation in the ſame love unto the end.</p>
+            <p>Remembring that all miſcarriages both to<g ref="char:EOLhyphen"/>wards God and towards one another, ariſe and ſpring commonly from the decay of Love; this procured that dreadful threatning to <hi>Epheſus</hi> of having her Golden Candelſtick removed, becauſe ſhe had left her firſt Love, <hi>&amp;c.</hi>
+            </p>
+            <p>I doubt not but there are thoſe yet left among us, that can remember that eſteem and good Per<g ref="char:EOLhyphen"/>ſwaſion that many People had of the Truth, and of thoſe that profeſs'd it at the beginning, becauſe we loved one another; and therefore many con<g ref="char:EOLhyphen"/>cluded we were the Diſciples of Chriſt, and it may be obſerved that becauſe <hi>Peter</hi> knew Man's Heart is not more ready to deceive him in any thing than concerning true and unfeigned Love, he prefers not his own knowledge of his Heart, but appeals to Chriſt's knowledge of it, <hi>viz, Lord thou knoweſt I love thee.</hi>
+            </p>
+            <p>And becauſe true love to the Brethren is ſuch an excellent Grace and Vertue, the Primitive Chriſtians counted it a ſign of their Regenera<g ref="char:EOLhyphen"/>tion, ſaying, <hi>we know we are paſſed from Death
+<pb n="3" facs="tcp:172572:2"/>to Life becauſe we love the Brethren;</hi> But ſee<g ref="char:EOLhyphen"/>ing there is an hypocritical fawning, that looks like Love, the Apoſtle ſharply reproves that in ſaying, <hi>Let your Love be without Diſſimulation.</hi>
+            </p>
+            <p>Therefore as God's free love in Chriſt Jeſus was the cauſe of our gathering to be a People at the Beginning, who were not a People, but gathered us (as it were) out of all ſorts of Pro<g ref="char:EOLhyphen"/>feſſions of Religion, to be a People to his Praiſe, and did, according to his promiſe, <hi>Jer.</hi> 3.15, 16. Raiſe up Paſtors according to his own Heart, that fed us with Divine Wiſdom and Underſtanding, which was in ſome meaſure the fulfilling of that Prophecy. So that we purſued after the ſub<g ref="char:EOLhyphen"/>ſtance, which is <hi>Chriſt Jeſus;</hi> and left the Sha<g ref="char:EOLhyphen"/>dows, Ceremonies and Figures, as ending in him the Subſtance; of which Figures the Ark of the Covenant under the old Law was chief, as <hi>Jeremiah</hi> Prophetically ſpeaking of the Goſpel times, ſaying, <hi>In thoſe dars, ſaith the Lord, they ſhall ſay no more the Ark of the Covenant of the Lord, neither ſhall it come upon the Heart</hi> (as the Margent hath it) <hi>neither ſhall they go after it, &amp;c.</hi>
+            </p>
+            <p>Now, <hi>Dear Friends,</hi> ſeeing we began in the Subſtance which was the appearance of Chriſt Jeſus in Spirit and Power: Let all watch and be careful that they turn not aſide, leſt by hearken<g ref="char:EOLhyphen"/>ing to the Fleſhly Wiſdom and Carnal Reaſon<g ref="char:EOLhyphen"/>ings any of you fall back again into the Naturals, where the Shadows paſs for Subſtances, and ſo become bewildered again, and at a greater loſs than you were in before; for then it may be ſaid,
+<pb n="4" facs="tcp:172572:3"/>
+               <hi>It had been better for you that you had never known the way of Truth,</hi> viz. <hi>[better]</hi> not only becauſe it will be harder to return again than before your firſt Convincement; but alſo the Fiery Furnace through which ſuch muſt paſs will be hotter, be<g ref="char:EOLhyphen"/>cauſe the ſtate the Backſlider is fallen into is ag<g ref="char:EOLhyphen"/>gravated by his being once Enlightened, which renders that condition <hi>[near]</hi> unto impoſſibility of returning, according to <hi>Heb.</hi> 6.5, 6.</p>
+            <p>This I ſpeak as a warning to all concern'd, that they which ſtand (or think they ſtand) may take heed leſt they fall, for bleſſed is the Man that feareth always; becauſe he that caſteth a<g ref="char:EOLhyphen"/>way true fear will reſtrain Prayer, and the re<g ref="char:EOLhyphen"/>ſtraining Prayer will diſcover the Irreligious and Careleſs; and the Hypocrite doth not truly diſcern Prayer, though he makes long Prayers.</p>
+            <p>Therefore <hi>Dear Friends,</hi> as you would perſe<g ref="char:EOLhyphen"/>vere unto the end in your Spiritual Union with God, and Communion one with another, and as you would have ſuch as ſhould be ſaved added to the Church, and that the number of them may be increaſed through the World, untill the King<g ref="char:EOLhyphen"/>doms thereof become the Kingdoms of the Lord and his Chriſt's, which muſt be accompliſhed, and the Miſtery of God finiſhed, <hi>Rev.</hi> 10.7. com<g ref="char:EOLhyphen"/>pared with 11.15.</p>
+            <p>I ſay, as you deſire the accompliſhment of all theſe things in their ſeaſon, what manner of Peo<g ref="char:EOLhyphen"/>ple ought you to be in all Godlineſs of Converſa<g ref="char:EOLhyphen"/>tion? Which brancheth out it ſelf into all parti<g ref="char:EOLhyphen"/>culars of Religion, and the duties thereof, as
+<pb n="5" facs="tcp:172572:3"/>
+               <hi>Children</hi> to <hi>Parents, Subjects</hi> to their <hi>Governors, Wives</hi> to <hi>Husbands, Servants</hi> to <hi>Maſters,</hi> and the <hi>Younger</hi> to the <hi>Elder, &amp;c.</hi> as the Apoſtle writes to <hi>Titus;</hi> which Exhortation would be to no purpoſe did not the Grace of God appear to them all; therefore he ſaith, <hi>[For] the Grace of God appears to all, &amp;c.</hi> whereby the Apoſtle exalts the Soveraignty of Grace for the performance of all theſe Duties, ſaying in a certain place, <hi>The <g ref="char:V">Ʋ</g>nity of the Spirit is kept in the bond of Peace,</hi> for Peace muſt be kept in all the States and Conditi<g ref="char:EOLhyphen"/>ons God hath placed People in; Peace and Love being the Bond that will preſerve in the Unity both with God and one with another.</p>
+            <p>The Children of God are bound together (as it were) in the bundle of Life, and as they con<g ref="char:EOLhyphen"/>tinue [ſo bound] the Gates of Hell can never prevail againſt them: but if any ſeparate from that bundle of Life, and Unity in the Spirit they are ſoon broke. Therefore I exhort all to keep the Unity of the Spirit in the Bond of Peace, and then will you abide in the new Covenant that is ordered in all things, and ſure, as the laſt Words of <hi>David</hi> teſtifie, in the 2 <hi>Sam</hi> 23.5.</p>
+            <p>For altho' the great Covenant is between the Father and his Son <hi>Chriſt Jeſus,</hi> yet that Cove<g ref="char:EOLhyphen"/>nant is derived from the Father to all his Children in <hi>Chriſt Jeſus;</hi> ſo that every Particular (accor<g ref="char:EOLhyphen"/>ding to their meaſure) can ſay with holy <hi>David, Thou haſt made with [Me] an everlaſting Cove<g ref="char:EOLhyphen"/>nant, &amp;c.</hi> as they abide in the Unity of the Spi<g ref="char:EOLhyphen"/>rit and Bond of Peace.</p>
+            <pb n="6" facs="tcp:172572:4"/>
+            <p> But if this Unity of the Spirit be departed from by diſorderly walking, and running greedi<g ref="char:EOLhyphen"/>ly after this preſent World, haſting to be Rich, <hi>&amp;c.</hi> Such oftentimes miſcarry, not only to the loſs of their own Eſtates, and ruin of their ſla<g ref="char:EOLhyphen"/>milies; but alſo to the wrong of their Neigh<g ref="char:EOLhyphen"/>bours, and above all to the diſhonour of their holy Profeſſion, and cauſing the way of Truth to be evil ſpoken of, <hi>&amp;c.</hi>
+            </p>
+            <p>Let not ſuch deceive themſelves by thinking ſuch miſcarriages may be ſalved over, or covered with an outward and formal Profeſſion of the Truth; for God is not ſo tied to any Profeſſion, that they ſhould be at liberty to walk after the Luſts of the Fleſh, and to pleaſe themſelves; but if we break Covenant with him, he is not bound to keep Covenant with us; but the breach is always firſt on Man's part as the Prophet <hi>Zachary</hi> ſpeaks, <hi>Zac.</hi> 10, 11. which was ſignified by the two Staffes, <hi>Beauty</hi> and <hi>Bands,</hi> ſaying, <hi>And I took my ſtaff, even</hi> Beauty, <hi>and cut it aſunder, that I might break the Covenant that I had made with all People,</hi> and it was broken in that day, and the Poor of the Flock that waited apon God knew that it was the Word of the Lord.</p>
+            <p>And when the Unity of the Spirit is departed from, and the Bond of Peace broken, the other Staff <hi>Bands</hi> (which ſignified their outward Form or Diſcipline) could not keep them together; but God ſoon cut that aſunder alſo, that he might break the Brotherhood between <hi>Judah</hi> and <hi>Iſrael,</hi> for the Brotherhood between <hi>Judah</hi> and <hi>Iſrael</hi> of
+<pb facs="tcp:172572:4"/>old did not ſtand in the outward form of the ſame Profeſſion only, as appears <hi>Iſa.</hi> 66.3. where it's ſaid, <hi>He that killeth an Ox is as if he ſlew a Man. He that ſacrificeth a Lamb, as if he cut off a Dogs Neck;</hi> Even when theſe things were outwardly required: but they were departed from the holy Spirit of God, therefore it follows; <hi>But to this Man will I look, ſaith the Lord, even to him that is Poor, and of a Contrite Spirit, and trembleth at my Word.</hi>
+            </p>
+            <p>
+               <hi>Dear Friends,</hi> Let us be careful to keep to the <hi>Laws</hi> of the Houſe upon the top of the Mount, which is <hi>[Holineſs round about] Ezek.</hi> 43.12. If Holineſs be round about, then God <hi>[is]</hi> there, according to his Promiſe, and Chriſt is in the midſt, be the number never ſo ſmall, yet it may be called the Houſe upon the top of the Mount, becauſe THE LORD IS THERE; then there is no room for Formality or carnal Liberties, nor any thing elſe that tends not to Holineſs and Purity.</p>
+            <p>But whatever advanceth and promotes <hi>Holi<g ref="char:EOLhyphen"/>neſs round about,</hi> even in all our Ways, Words and Actions, that the Doctrine according to God<g ref="char:EOLhyphen"/>lyneſs may be maintained, even that Godlineſs that is in <hi>Chriſt Jeſus,</hi> altho' we ſuffer Perſecuti<g ref="char:EOLhyphen"/>on for it.</p>
+            <p>The Name of this Houſe, <hi>THE LORD IS THERE,</hi> will end all other Names, as it is fore<g ref="char:EOLhyphen"/>told, that the time ſhall come that the Lord ſhall be <hi>(One)</hi> and his Name <hi>(One)</hi> in all the Earth.</p>
+            <p>His Name is his Power, and Preſence of his
+<pb facs="tcp:172572:5"/>Spirit and Glory, and as we give up wholly to his diſpoſe and ordering of us, then it will be with us inwardly in all our Meetings, as it was outwardly at the Dedication of the Temple, which God took ſo kindly at the hands of <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> that he would not dwell in it himſelf (tho' it was ſo much fam'd in the World) but gave it up to the Lord, that <hi>God ſo filled the Houſe with his Glory, that the Prieſts could not enter in,</hi> as it is written in 2 <hi>Chro.</hi> 7. and not only ſo, but God pro<g ref="char:EOLhyphen"/>vided ſuch plenty of Sacrifices, that there was ſcarce room to receive them.</p>
+            <p>And as we give up to the Divine Power of God (as <hi>Peter</hi> calls it) that will make us Parta<g ref="char:EOLhyphen"/>kers of all things that pertain to Life and Godli<g ref="char:EOLhyphen"/>neſs, and ſo fill our Meetings with greater Glo<g ref="char:EOLhyphen"/>ry than at the beginning; when few Words of<g ref="char:EOLhyphen"/>tentimes did the Work of the Miniſtry to God's Praiſe and Glory, and to the Comfort and Satis<g ref="char:EOLhyphen"/>faction of the Souls of his People.</p>
+            <p>Theſe Paſtors which God raiſed up at the be<g ref="char:EOLhyphen"/>ginning (according to his own Heart) went out to God's Work as <hi>Abraham</hi> did out of his Coun<g ref="char:EOLhyphen"/>try and Fathers Houſe, not knowing whither; ſo they not queſtioning God's Aſſiſtance, or diſ<g ref="char:EOLhyphen"/>poſal of them in his Service, and like <hi>Iſrael</hi> when they left <hi>Egypt,</hi> and ſet forth their three Days Journey, ſaying, <hi>We know not wherewith we ſhall ſerve God untill we come there.</hi>
+            </p>
+            <p>So poor in Spirit were <hi>(they)</hi> in that day, and ſo cloſely kept <hi>(they)</hi> retired unto the Light and Meaſure of the Spirit of Chriſt within, that they
+<pb n="9" facs="tcp:172572:5"/>durſt not (out of an holy Fear) open their Mouths, till the Word of the Lord came, <hi>(ſay<g ref="char:EOLhyphen"/>ing)</hi> as the Prophet <hi>Jeremy</hi> ſpeaks, and when that ſtop'd <hi>(ſaying)</hi> they had done <hi>(ſpeaking)</hi> until <hi>(it)</hi> came again.</p>
+            <p>This was one great cauſe wherefore the Truth at the beginning ſo mightily grew and proſpered, together with the holy Converſations (anſwer<g ref="char:EOLhyphen"/>able thereunto) of thoſe that received the Truth in the love of it, into the <hi>good</hi> and <hi>honeſt</hi> Heart, as it is written, <hi>&amp;c.</hi>
+            </p>
+            <p>Theſe things I write unto you by way of re<g ref="char:EOLhyphen"/>membrance to ſtir up your pure Minds to follow theſe good Examples, that thoſe of latter times may beware of luſting to ſpeak many Words, and of thinking that may do the buſineſs of the Mini<g ref="char:EOLhyphen"/>ſtry, and of luſting to Preach or Pray, to grati<g ref="char:EOLhyphen"/>fie an itching Ear after ſpeaking, or ſometimes to ſhew their Gifts and Elocution for Applauſe. This is not ſpoken to ſtop the Motion of God's Spirit in any, nor to diſpiſe Youth truly Sanctifi<g ref="char:EOLhyphen"/>ed and Gifted, but that none may be exalted when they ſee People affected with their Mini<g ref="char:EOLhyphen"/>ſtry. Pray obſerve Chriſt's Caution to thoſe early Meſſengers, that came and told him, that unclean Spirits were ſubject to them, <hi>&amp;c.</hi> by ad<g ref="char:EOLhyphen"/>viſing them not to Rejoyce in <hi>that,</hi> but rather that their Names were writren in Heaven, <hi>Luke</hi> 10.20. This may be a Caution to all thoſe of lower Attainments and leſs Authority, who had need to take heed of Popularity, or ſtriving for a Name on Earth, but be ſure their Names are Recorded in Heaven.</p>
+            <pb n="10" facs="tcp:172572:6"/>
+            <p> 
+               <hi>Timothy</hi> was a Young Preacher (but rarely Qualified) yet <hi>Paul</hi> in his Epiſtle to him (amongſt other Counſel that he gives him) he adviſes him to Exhort the Younger Women, as Siſters, <hi>
+                  <hi>[with all Purity.]</hi> Timothy</hi> was a Young Man, and probably attended with Temptations of Youth; therefore <hi>Paul</hi> adviſeth him to ſhun <hi>Youthful Luſts,</hi> and inſtructs him to be careful in his Exhortation to Young Women, that he do it <hi>[with all Purity.]</hi> leaſt any ſiniſter or by-end ſhould creep in to defile, and ſo <hi>fruſtrate</hi> his Exhortation, <hi>&amp;c.</hi> A good Caution to all Young Men, that are but Young Preachers alſo.</p>
+            <p>Thoſe Paſtors after God's own Heart, at the Beginning, kept much to the Word of Exhorta<g ref="char:EOLhyphen"/>tion, to the Light of Chriſt in the Conſcience, as a Seed that was Sown for the Righteous to bring forth a plentiful Crop of Holineſs to the Lord; from whence alſo ſprang pure Living Praiſes to the Almighty, for bequeathing ſuch a Legacy and Gift through Chriſt Jeſus, unto ſuch poor Orphans as we were at the day, when as to Religion we could call no Man Father on Earth, nay, we ſcarcely durſt call God Father, in that ſtate we were then in, at our firſt Convince<g ref="char:EOLhyphen"/>ment. Yet I can ſay, with many more at that day, <hi>viz.</hi> In God the Fatherleſs found Mercy, through Jeſus Chriſt.</p>
+            <p>Let all be careful how any meddle by way of Prophecy of Times and Seaſons, ſo as to fix De<g ref="char:EOLhyphen"/>ſtructions and Deſolations to be on (or within) ſuch a certain time, <hi>&amp;c.</hi> But keep to the form of
+<pb n="11" facs="tcp:172572:6"/>ſound Words and Goſpel Doctrine (uſed in ho<g ref="char:EOLhyphen"/>ly Scripture) and Examples of Goſpel Miniſters, and not to be too poſitive about Perſons, Places and Things; which if imaginary, preſump<g ref="char:EOLhyphen"/>tuous or miſtaken, proves to the great diſhonour of Truth, and ſtumbling of many, if not to the Miniſtring an occaſion of Atheiſm, to ſuch as watch for opportunities thereunto, and alſo to cauſe many not to regard true Prophets.</p>
+            <p>The firſt Preachers among us (as all true Preachers do) minded more the Goodneſs and Sincerity of thoſe that came among us, than they did the number of the People: their Buſineſs and Meſſage was to gather the poor loſt Sheep of the Houſe of <hi>Iſrael,</hi> and to call Sinners not only to change their Opinions, but to change their Hearts, Lives and Converſations, that ſuch might be added to the Church as ſhould be ſaved; and in all things they ſhewed themſelves work<g ref="char:EOLhyphen"/>men, that need not be aſhamed; they were ex<g ref="char:EOLhyphen"/>perienced in the Word and Doctrine, and knew that a bare Convincement in the Judgment and Underſtanding was not ſufficient to make Diſci<g ref="char:EOLhyphen"/>ples of Chriſt, and that unhewen Stones (as they came out of the Quarry) were not fit to build God an Houſe to dwell in; but would rather prove a diſgrace to the Workman that uſeth them, and a diſhonour to the whole Building, if made uſe of; for ſuch unskilful Builders in<g ref="char:EOLhyphen"/>deed may well be aſhamed of their Work, and give it over till they are better experienced.</p>
+            <pb n="12" facs="tcp:172572:7"/>
+            <p> Therefore ſuch ought to be remembred as have ſpoken unto us the Word of God, whoſe Faith follow, conſidering the end of their Con<g ref="char:EOLhyphen"/>verſation, <hi>Chriſt Jeſus,</hi> the ſame yeſterday, to day, and for ever, as <hi>Heb.</hi> 13.7, 8, 9. and that you be not carried about with divers and ſtrange Doctrines; for it is a good thing, that the heart be eſtabliſhed with <hi>Grace,</hi> and not with <hi>Meats,</hi> as ſaith the Apoſtle.</p>
+            <p>Therefore <hi>Dear Friends</hi> and <hi>Brethren,</hi> let us all abide with God, in the <hi>Calling</hi> whereunto he hath called us; and none to ſtrive for <hi>Maſtery,</hi> nor to be many <hi>Maſters,</hi> and to ſet up as 'twere for them<g ref="char:EOLhyphen"/>ſelves, but all to ſerve the full time of <hi>Silence,</hi> in order to be Well-experienced in the Word and Doctrine; and when you are throughly [of God taught] your ſelves, you will underſtand, and learn of him how to inſtruct others.</p>
+            <p>But let all, in the firſt place, learn well the <hi>Doctrine</hi> of <hi>Self-denial,</hi> ſubmitting our ſelves to God in Chriſt Jeſus. So will every one know their Place and Service in the Houſe (or Church) of the Living God; where none that are really Members of it, but will ſubmit to the Laws there<g ref="char:EOLhyphen"/>of; which are <hi>[All Holineſs round about]</hi> and God in the midſt, judging out all Stubbornneſs Self-willedneſs, and all that Wickedneſs of Jea<g ref="char:EOLhyphen"/>louſies, Evil Surmiſings, Whiſperings and Back<g ref="char:EOLhyphen"/>bitings, <hi>&amp;c.</hi> which produce <hi>Diſcord</hi> and <hi>Diviſi<g ref="char:EOLhyphen"/>ons:</hi> And all as little Children, and ſerving one another in Love, and the <hi>Younger</hi> receiving the Counſel and Advice of the <hi>Elder,</hi> imbracing it
+<pb n="13" facs="tcp:172572:7"/>thankfully for God's Glory, and their own Be<g ref="char:EOLhyphen"/>nefit and Comfort: So will all, from the higheſt to the loweſt, ſubmit one to the other in true Love and godly Simplicity for Edification and Preſervation of the whole. And then forgiving and forgetting all former diſtances; that in the Unity of the Spirit you may all knit together by the Bond of Peace; and the Gates of Hell ſhall never prevail againſt you, but you ſhall remain a People to God's Glory, and your own Com<g ref="char:EOLhyphen"/>fort: And ſo you will abide in the pure Reli<g ref="char:EOLhyphen"/>gion, unſpotted from the World; manifeſting plainly, that you have received a Kingdom that cannot be ſhaken, by all that Noiſe and Clamour that is made againſt you, <hi>&amp;c.</hi>
+            </p>
+            <p>Which Kingdom, as it came not by outward Obſervation, ſo it ſtands not in Word or Opini<g ref="char:EOLhyphen"/>on, nor yet in Meat and Drink, but in Righ<g ref="char:EOLhyphen"/>teouſneſs and Peace, and in Joy in the <hi>Holy Ghoſt,</hi> and [he] <hi>that is in theſe things</hi> (ſaith the Apoſtle, <hi>Rom.</hi> 14.17, 18.) <hi>ſerveth Chriſt;</hi> (ſuch a Man or Woman) is accepted of God, and ap<g ref="char:EOLhyphen"/>proved of Men; having this Evidence fixed to this pure Religion, <hi>viz.</hi> of <hi>Father, Son</hi> and <hi>Spirit,</hi> and all good Men, as being that only pure &amp; mer<g ref="char:EOLhyphen"/>ciful Religion before God and the Father, that the Apoſtle <hi>James</hi> hath given (as it were) a ſhort Definition or Deſcription of; <hi>James</hi> 1.27.</p>
+            <p>So that whoever Profeſſeth this pure Religi<g ref="char:EOLhyphen"/>on, and abides and continues in the ſame, bringing forth in his whole Life and Conver<g ref="char:EOLhyphen"/>ſation the pure and holy Fruits thereof, need
+<pb n="14" facs="tcp:172572:8"/>not be aſhamed of it; for to ſuch an one, it is not only given to believe it, but alſo to ſuffer for the ſame, which hath been, and is a great Confirmation to many, by that ſweet Power and Preſence of God, that hath aſſiſted them in all their Afflictions and Exerciſes, both from within and without, and joyfully (in that needful time of great and ſharp Trials) born up their Spi<g ref="char:EOLhyphen"/>rits to their great Satisfaction and Comfort, and to the Eternal Praiſe of God's moſt Holy and Bleſſed <hi>Name</hi> for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>Hertford, <date>the 26th of the 3d Month, 1698.</date>
+               </dateline>
+               <signed>John Crook.</signed>
+            </closer>
+            <pb n="14" facs="tcp:172572:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="postscript">
+            <pb n="15" facs="tcp:172572:9"/>
+            <head>A Poſtſcript.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>LET not your outward Concerns prevent your Religious Meetings and Service on the Week Days, leſt the Earthly Spirit get up a<g ref="char:EOLhyphen"/>gain, and bury you before your time; but meet in the Faith that you ſhall meet with God, whe<g ref="char:EOLhyphen"/>ther you hear Words ſpoken outwardly or not; ſo by retiring into the inward and ſpiritual Grace you will avoid the extreams of dead Formality and falſe Liberty, and witneſs that <hi>[pure Silence]</hi> wherein was felt the Breaſt that inwardly Nouriſhed, and thoſe Paps that gave us Suck, when we were Young.</p>
+            <p>When Chriſt aſcended he commanded his Diſciples to <hi>[wait]</hi> for Power from on high, the Promiſe of the Holy Spirit, which (accord<g ref="char:EOLhyphen"/>ing to his Promiſe) fell upon them when they were <hi>[met]</hi> together with one accord, and the Apoſtle in 2 <hi>Theſ.</hi> 2.2. exhorts them by their gathering together in Chriſt, <hi>&amp;c.</hi> Seeming to uſe their Meeting together as an argument to keep down that Wicked One, and them from <hi>[that]</hi> falling away he ſpeaks of, <hi>&amp;c.</hi>
+            </p>
+            <pb n="16" facs="tcp:172572:10"/>
+            <p> Therefore, <hi>Dear Friends and Brethren,</hi> be di<g ref="char:EOLhyphen"/>ligent in your Meetings together in God's Fear and Service, and that will procure his Bleſſing upon your diligence in your particular Callings; therefore I beſeech you ſtir up and exhort one an<g ref="char:EOLhyphen"/>other thereunto, by the Elder giving good Ex<g ref="char:EOLhyphen"/>amples to the Younger ſort, who are apt to con<g ref="char:EOLhyphen"/>tent themſelves with going to Meetings on the Firſt Days only; and then too many, inſtead of waiting and exerciſing Faith, to meet with the teachings of the Spirit of God in their inward parts, only exerciſe their outward Ears in hear<g ref="char:EOLhyphen"/>ing what may be ſpoken outwardly, which in tender Love and good will to the Souls of all, I deſire may be prevented for the future,</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>Iohn Crook.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-Houſe,</hi> in <hi>White-Hart-Court</hi> in <hi>Grace-Church-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden-hall-ſtreet,</hi> near the <hi>Market,</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
